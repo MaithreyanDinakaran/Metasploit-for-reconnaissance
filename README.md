@@ -40,7 +40,8 @@ Open terminal and try execute some kali linux commands
 
 ## OUTPUT:
 
-![Uploading 428020744-4ef9a1d1-7759-4fb0-8956-036832539b17.jpg…]()
+![428020744-4ef9a1d1-7759-4fb0-8956-036832539b17](https://github.com/user-attachments/assets/76cb8156-ea90-4c37-98a4-217c14e84136)
+
 
 
 ![427946887-14ed3af8-db0e-4585-9012-51f6403b314a](https://github.com/user-attachments/assets/bcea5b5f-a69d-4b4b-ae09-de1a2ce6f424)
